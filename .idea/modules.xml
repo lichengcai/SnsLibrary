@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SnsLibrary.iml" filepath="$PROJECT_DIR$/SnsLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendaogenerate/greendaogenerate.iml" filepath="$PROJECT_DIR$/greendaogenerate/greendaogenerate.iml" />
       <module fileurl="file://$PROJECT_DIR$/snslibrary/snslibrary.iml" filepath="$PROJECT_DIR$/snslibrary/snslibrary.iml" />
     </modules>
   </component>

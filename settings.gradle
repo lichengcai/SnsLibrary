@@ -1,1 +1,1 @@
-include ':app', ':snslibrary'
+include ':app', ':snslibrary', ':greendaogenerate'

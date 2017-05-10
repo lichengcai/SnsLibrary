@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void green(View view) {
-        Toast.makeText(this,"share test",Toast.LENGTH_SHORT).show();
-        startActivity(new Intent(MainActivity.this,ShareTestActivity.class));
+        Toast.makeText(this,"green dao test",Toast.LENGTH_SHORT).show();
+        startActivity(new Intent(MainActivity.this,GreenDaoActivity.class));
     }
 }
